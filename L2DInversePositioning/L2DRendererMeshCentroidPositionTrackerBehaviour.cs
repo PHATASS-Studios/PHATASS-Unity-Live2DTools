@@ -2,8 +2,6 @@ using UnityEngine;
 
 using CubismRenderer = Live2D.Cubism.Rendering.CubismRenderer;
 
-
-//using static PHATASS.Utils.Extensions.CubismRendererExtensions;
 using static PHATASS.Utils.Extensions.MeshExtensions;
 
 namespace PHATASS.L2DTools

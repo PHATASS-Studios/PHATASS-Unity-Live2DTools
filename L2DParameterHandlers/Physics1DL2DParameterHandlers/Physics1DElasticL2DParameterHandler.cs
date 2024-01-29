@@ -11,9 +11,6 @@ using IKineticBody1D = PHATASS.Utils.Physics.Physics1D.IKineticBody1D;
 using DoubleRange = PHATASS.Utils.Types.Ranges.DoubleRange;
 //using IFloatRange = PHATASS.Utils.Types.Ranges.IFloatRange;
 
-//using CubismParameter = Live2D.Cubism.Core.CubismParameter;
-
-//using static PHATASS.Utils.Extensions.CubismParameterExtensions;
 
 //*=======================================================
 

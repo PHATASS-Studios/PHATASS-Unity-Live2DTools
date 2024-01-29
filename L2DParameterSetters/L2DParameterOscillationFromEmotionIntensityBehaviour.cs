@@ -8,7 +8,9 @@ using SerializedTypeRestrictionAttribute = PHATASS.Utils.Attributes.SerializedTy
 
 using static PHATASS.Utils.Extensions.FloatExtensions;
 using static PHATASS.Utils.Extensions.IntExtensions;
-using static PHATASS.Utils.Extensions.CubismParameterExtensions;
+
+using static PHATASS.L2DTools.Extensions.CubismParameterExtensions;
+
 namespace PHATASS.L2DTools
 {
 //[TO-DO]: Port this to something that uses the existing SawtoothGeneratorMagnitudeFromValue implementation for IValue
